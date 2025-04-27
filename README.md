@@ -1,6 +1,5 @@
 ## Hi there 👋
 <h1 align="center">Hi there 👋</h1>
-<h3 align="center">Self taught full-stack googler. Jokes aside, full-stack web dev. I stream on Twitch, build broken websites that will eventually work and think that I'm funny.</h3>
 
 <h4 align="center">
 Built some cool projects like <a href="https://github.com/envuso" target="_blank">Envuso</a> and <a href="https://chatreward.tv/" target="_blank">ChatReward</a>.
