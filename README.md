@@ -1,9 +1,4 @@
-## Hi there 👋
 <h1 align="center">Hi there 👋</h1>
-
-<h4 align="center">
-Built some cool projects like <a href="https://github.com/envuso" target="_blank">Envuso</a> and <a href="https://chatreward.tv/" target="_blank">ChatReward</a>.
-</h4>
 
 <p align="center">  
   <img src="https://wakatime.com/badge/user/e3554835-2c7c-4e57-a5b0-6c34501aa484.svg" alt="xatron3" />
