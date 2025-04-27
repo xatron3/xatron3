@@ -1,7 +1,6 @@
 <h1 align="center">Hi there 👋</h1>
 
 <p align="center">  
-  <img src="https://wakatime.com/badge/user/e3554835-2c7c-4e57-a5b0-6c34501aa484.svg" alt="xatron3" />
   <img src="https://komarev.com/ghpvc/?username=xatron3&label=Profile%20views&color=0e75b6&style=flat" alt="xatron3" />
 </p>
 
