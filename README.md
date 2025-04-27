@@ -1,16 +1,21 @@
 ## Hi there 👋
+<h1 align="center">Hi there 👋</h1>
+<h3 align="center">Self taught full-stack googler. Jokes aside, full-stack web dev. I stream on Twitch, build broken websites that will eventually work and think that I'm funny.</h3>
 
-<!--
-**xatron3/xatron3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h4 align="center">
+Built some cool projects like <a href="https://github.com/envuso" target="_blank">Envuso</a> and <a href="https://chatreward.tv/" target="_blank">ChatReward</a>.
+</h4>
 
-Here are some ideas to get you started:
+<p align="center">  
+  <img src="https://wakatime.com/badge/user/e3554835-2c7c-4e57-a5b0-6c34501aa484.svg" alt="xatron3" />
+  <img src="https://komarev.com/ghpvc/?username=xatron3&label=Profile%20views&color=0e75b6&style=flat" alt="xatron3" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=xatron3&show_icons=true&locale=en&layout=compact&hide=c%23" alt="xatron3" /></p>
+<p align="left"><img src="https://github-readme-streak-stats.herokuapp.com/?user=xatron3&" alt="xatron3" /></p>
+<p align="left"><img src="https://github-readme-stats.vercel.app/api?username=xatron3&show_icons=true&locale=en" alt="xatron3" /></p>
+
+
+<p>
+  <img src="https://github-profile-trophy.vercel.app/?username=xatron3" alt="xatron3" />
+</p>
